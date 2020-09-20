@@ -11,7 +11,7 @@
 	<groupId>io.github.xfally</groupId>
 	<artifactId>spring-gateway</artifactId>
     <name>spring-gateway</name>
-	<version>0.2.0</version>
+	<version>0.3.0</version>
 	<description>Gateway project for Spring Boot</description>
 
 	<properties>
