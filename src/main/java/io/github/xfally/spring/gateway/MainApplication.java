@@ -1,13 +1,13 @@
-package com.example.gateway;
+package io.github.xfally.spring.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GatewayApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GatewayApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
 
 }

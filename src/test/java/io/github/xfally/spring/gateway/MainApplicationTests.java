@@ -1,10 +1,10 @@
-package com.example.gateway;
+package io.github.xfally.spring.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class MainApplicationTests {
 
 	@Test
 	void contextLoads() {
